@@ -1,3 +1,6 @@
+## Description
+
+Simple Nest JS application with Bull Jobs queue
 
 ## Installation
 
