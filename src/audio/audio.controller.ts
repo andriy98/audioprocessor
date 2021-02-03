@@ -11,5 +11,9 @@ export class AudioController {
     await this.audioQueue.add('transcode', {
       file: 'audio.mp3',
     });
+
+    return {
+      result: 'Added to queue'
+    };
   }
 }
