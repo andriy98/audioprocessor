@@ -1,6 +1,7 @@
 ## Description
 
-Simple Nest JS application with Bull Jobs queue
+Simple Nest JS application with Bull Jobs queue.
+Test.
 
 Has one endpoint
 
